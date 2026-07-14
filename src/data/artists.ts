@@ -1,0 +1,87 @@
+export const artists = [
+    {
+        name: 'Rohit',
+        slug: 'rohit',
+        role: 'Commercial, Afro, House, Melodic Tech, Bolly Tech',
+        instagram: 'https://www.instagram.com/djrohit792',
+        website: 'https://www.instagram.com/djrohit792',
+        presskit: '#',
+        spotify: '#',
+        soundcloud: '#',
+        facebook: '#',
+        youtube: '#',
+        image: '/rohit.JPG',
+        color: 'text-neon-pink',
+        bio: 'Rohit is a versatile DJ known for his eclectic mix of Commercial, Afro, House, and Bolly Tech beats. With a high-energy performance style, he ensures every event is a memorable experience.'
+    },
+    {
+        name: 'Rabia',
+        slug: 'rabia',
+        role: 'Techno, Afro, House, Melodic Tech, Afro House',
+        instagram: 'https://www.instagram.com/rabiamusic11',
+        website: 'https://www.instagram.com/rabiamusic11',
+        presskit: '#',
+        image: '/rabia.JPG',
+        color: 'text-neon-lilac',
+        bio: 'Rabia brings a deep, hypnotic vibe to the dancefloor, blending Techno and Afro House into seamless, melodic journeys. Her sets are crafted to move both body and soul.'
+    },
+    {
+        name: 'Joel',
+        slug: 'joel',
+        role: 'Commercial, Bolly Tech',
+        instagram: 'https://www.instagram.com/deejayjoelofficial',
+        website: 'https://www.instagram.com/deejayjoelofficial',
+        presskit: '#',
+        image: '/joel.JPG',
+        color: 'text-neon-green',
+        position: 'object-center',
+        bio: 'Joel is a master of the Commercial and Bolly Tech scene, delivering crowd-pleasing hits with a unique technical twist. He knows exactly how to read a crowd and keep the energy peaking.'
+    },
+    {
+        name: 'Ashely',
+        slug: 'ashely',
+        role: 'Commercial, Afro, House, Melodic Tech, Bolly Tech',
+        instagram: 'https://www.instagram.com/ashleyalvaresmusic',
+        website: 'https://www.instagram.com/ashleyalvaresmusic',
+        presskit: '#',
+        image: '/ashley.jpg',
+        color: 'text-neon-pink',
+        position: 'object-top',
+        bio: 'Ashley Alvares combines technical precision with a broad selection of genres, from Afro House to Commercial hits. His sets are a testament to his musical versatility and passion.'
+    },
+    {
+        name: 'Antara',
+        slug: 'antara',
+        role: 'Afro, Melodic Tech',
+        instagram: 'https://www.instagram.com/antara.dj',
+        website: 'https://www.instagram.com/antara.dj',
+        presskit: '#',
+        image: '/antra/a18.JPEG',
+        color: 'text-neon-lilac',
+        position: 'object-bottom',
+        bio: 'Antara specializes in the deeper, more melodic side of electronic music. Her Afro and Melodic Tech sets are immersive experiences, rich with emotion and groove.'
+    },
+    {
+        name: 'Phase2',
+        slug: 'phase2',
+        role: 'Rabia & Mariya',
+        instagram: 'https://www.instagram.com/',
+        website: 'https://www.instagram.com/',
+        presskit: '#',
+        image: '/phase2.jpeg',
+        color: 'text-neon-cyan',
+        bio: 'Phase2 is the dynamic duo of Rabia & Mariya, delivering a compounded energy that is greater than the sum of its parts. Expect a powerful fusion of styles and an unforgettable performance.'
+    },
+    {
+        name: 'Xyro',
+        slug: 'xyro',
+        role: 'Xyro',
+        instagram: 'https://www.instagram.com/',
+        website: 'https://www.instagram.com/',
+        presskit: '#',
+        image: '/xyro.jpg',
+        color: 'text-neon-cyan',
+        position: 'object-top',
+        bio: 'Xyro brings a fresh perspective to the roster with a unique sound signature. (Bio placeholder - awaiting details).'
+    },
+];
